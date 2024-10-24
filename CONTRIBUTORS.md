@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Mansha](https://github.com/Mansha0708)
+- Place: Delhi , India
+- Bio: beginner at coding
+- Github: [Mansha0708](https://github.com/Mansha0708)
